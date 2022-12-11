@@ -12,6 +12,11 @@
 - 在首頁，使用者可用中文、英文以及類別名稱搜尋餐廳
 - 若搜尋輸入為空白，會顯示「請輸入正確關鍵字」提示使用者
 - 若查無符合關鍵字的結果，會隨機推薦三個餐廳給使用者
+首頁：概覽餐廳清單
+![index page screenshot](/public/images/1.jpg)
+
+個別介紹餐廳頁面
+![show page screenshot](/public/images/2.jpg)
 
 
 ## 🚀 Getting Started 開始使用
