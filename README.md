@@ -18,8 +18,7 @@
 ![](public/screenshots/screenshot_index.jpg)
 #### 顯示餐廳頁面
 ![](public/screenshots/screenshot_show.jpg)
-#### 隨機推薦餐廳
-![](public/screenshots/screenshot_suggestion.jpg)
+
 
 ## 🚀 Getting Started 開始使用
 
